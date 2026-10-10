@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahil Majra
 
-<!--
-**sahilmajra967-web/sahilmajra967-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 PUBG Gamer & YouTuber – **PUBG Gaming Sahil**
+🤖 Learning AI tools and building projects with AI
+🏎️ Building games like **Turbo Race** (bike & car racing)
 
-Here are some ideas to get you started:
+## 🚀 What I'm Doing
+- Making PUBG gaming videos on my YouTube channel
+- Learning new AI tools in my AI Tools class
+- Creating small games and apps using AI Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I Use
+- AI Studio
+- VS Code
+- GitHub
+
+## 🎯 My Projects
+- **Turbo Race** – A fast-paced bike & car racing game
+
+## 📫 Connect With Me
+- YouTube: PUBG Gaming Sahil
+
+⭐ Thanks for visiting my profile!
